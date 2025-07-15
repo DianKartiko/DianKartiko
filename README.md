@@ -42,14 +42,14 @@
 
 <div align="left">
   <a href="https://x.com/baseleusnara"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="28" alt="twitter logo"  />
-    <img width="12" /></a>
+    <img width="8" /></a>
   <a href="https://www.linkedin.com/in/dian-wicaksono/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-        <img width="12" />
+        <img width="8" />
   </a>
   <a href="https://www.instagram.com/helios.ui/">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"/>
-        <img width="12" />
+        <img width="8" />
   </a>
 </div>
 
