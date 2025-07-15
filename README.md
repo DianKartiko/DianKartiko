@@ -1,6 +1,6 @@
 <h2 align="left">Hey 👋, I am Dian Wicaksono</h2>
 
-<h4><strong align="left">Lead of Aquaculture</strong> <a href="#" target="_blank">
+<h4><strong align="left">Lead of Aquaculture on</strong> <a href="#" target="_blank">
       FishOra.id
     </a>
 </h4>
