@@ -46,7 +46,9 @@
   <a href="https://www.linkedin.com/in/dian-wicaksono/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/helios.ui/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/helios.ui/">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="30" alt="instagram logo"/>
+  </a>
 </div>
 
 ###
