@@ -1,12 +1,12 @@
 <h2 align="left">Hey 👋, I am Dian Wicaksono</h2>
 
-<h4><strong align="left">Lead of Aquaculture</strong><a href="#" target="_blank">
+<h4><strong align="left">Lead of Aquaculture</strong> <a href="#" target="_blank">
       FishOra.id
     </a>
 </h4>
 
 <ul>
-  <li>🔭 I'am currently working on<a href="#" target="_blank">
+  <li>🔭 I'am currently working on <a href="#" target="_blank">
       FishOra.id
     </a></li>
   <li>🔍 I'm looking to collaborate on <a href="https://www.python.org/" target="_blank">
@@ -16,7 +16,7 @@
     https://medium.com
   </a></li>
   <li>💬 Ask me everything about <strong>aquaculture, python, and internet of things</strong></li>
-  <li>🖥️ How to reach me<a href="#" target="_blank">
+  <li>🖥️ How to reach me <a href="#" target="_blank">
     https://dianwicaksono.dev/contact
   </a></li>
   <li>⚡ Fun fact! 💓🎮</strong></li>
